@@ -1,9 +1,8 @@
 # Hello World
 ## I’m Mohammed software engineering .
 I am a software engineer with expertise in Java (JEE , Spring Boot, JavaFX ...) and Node.js. I have developed both monolithic and microservices applications. Additionally, I am skilled in front-end development using Angular, with experience in PrimeNG and Angular Material libraries. My versatility and commitment to staying updated with emerging technologies contribute to my ability to deliver robust and innovative solutions.
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[linkedin-url]: https://www.linkedin.com/in/mohammed-el-bakkali-el-ammari/
+
 ---
 
 ### Languages and Tools :
@@ -26,3 +25,5 @@ I am a software engineer with expertise in Java (JEE , Spring Boot, JavaFX ...) 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husayn01&show_icons=true&locale=en" alt="husayn01" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husayn01)](https://github.com/husayn01/github-readme-stats)
+
+[linkedin-url]: https://www.linkedin.com/in/mohammed-el-bakkali-el-ammari/
