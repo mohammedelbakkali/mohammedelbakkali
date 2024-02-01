@@ -1,15 +1,12 @@
 # Hello World
-## I’m Hussaini. I am a Front-end Web Developer.
-- 🌱 I use web languages and technologies including HTML, CSS, JavaScript, Bootstrap, TailwindCSS and React.js to create and maintain web apps and websites.
-- 💞️ I’m looking to collaborate to build projects
-- 📫 Feel free to reach me on: 
-[Email](hussainiahmed222@gmail.com) |
-[Twitter](https://twitter.com/Husayn_01) |
-[LinkedIn](https://www.linkedin.com/mwlite/in/hussaini-ahmed)
+## I’m Mohammed software engineering .
+I am a software engineer with expertise in Java (JEE , Spring Boot, JavaFX ...) and Node.js. I have developed both monolithic and microservices applications. Additionally, I am skilled in front-end development using Angular, with experience in PrimeNG and Angular Material libraries. My versatility and commitment to staying updated with emerging technologies contribute to my ability to deliver robust and innovative solutions.
+[Email](mohammedelbakkalielammari@gmail.com)  |
+[LinkedIn](https://www.linkedin.com/in/mohammed-el-bakkali-el-ammari/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
 
