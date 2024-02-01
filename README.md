@@ -1,9 +1,9 @@
 # Hello World
 ## I’m Mohammed software engineering .
 I am a software engineer with expertise in Java (JEE , Spring Boot, JavaFX ...) and Node.js. I have developed both monolithic and microservices applications. Additionally, I am skilled in front-end development using Angular, with experience in PrimeNG and Angular Material libraries. My versatility and commitment to staying updated with emerging technologies contribute to my ability to deliver robust and innovative solutions.
-[Email](mohammedelbakkalielammari@gmail.com)  |
-[LinkedIn](https://www.linkedin.com/in/mohammed-el-bakkali-el-ammari/)
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[linkedin-url]: https://www.linkedin.com/in/mohammed-el-bakkali-el-ammari/
 ---
 
 ### Languages and Tools :
